@@ -1,0 +1,1 @@
+Tried 3d conv and RNN for sequence context but not so good.

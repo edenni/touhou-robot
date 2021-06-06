@@ -1,0 +1,11 @@
+__pycache__/
+
+/logs
+/screenshot
+/th17
+
+*.jpg
+*.png
+*.bmp
+*.log
+*.txt
